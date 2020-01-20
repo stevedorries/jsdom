@@ -2,6 +2,7 @@
     <img width="100" height="100" src="logo.svg" alt=""><br>
     jsdom
 </h1>
+This is a fork of the jsdom project aimed at a rewrite in Typescript and the ability to be used in the [Deno](https://deno.land) runtime.
 
 jsdom is a pure-JavaScript implementation of many web standards, notably the WHATWG [DOM](https://dom.spec.whatwg.org/) and [HTML](https://html.spec.whatwg.org/multipage/) Standards, for use with Node.js. In general, the goal of the project is to emulate enough of a subset of a web browser to be useful for testing and scraping real-world web applications.
 
